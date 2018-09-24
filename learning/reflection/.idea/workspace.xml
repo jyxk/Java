@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0edbdc4-09b0-4849-b28b-496003d2b6a3" name="Default Changelist" comment="">
+    <list default="true" id="3724175d-8b28-46e2-94f4-c22f17c9b0c6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../equals/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reflection/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../equals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../equals/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../equals/src/equals/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../equals/src/equals/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../equals/src/equals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../equals/src/equals/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,77 +16,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="320890781">
+    <session id="2035883790">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1268" />
+          <entry key="java" value="1599" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1268" />
+          <entry key="JAVA" value="1599" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Manager.java">
+        <entry file="file://$PROJECT_DIR$/src/reflection/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/inheritance/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="660">
+              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -96,17 +69,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/inheritance/Manager.java" />
-        <option value="$PROJECT_DIR$/src/inheritance/Main.java" />
+        <option value="$PROJECT_DIR$/src/reflection/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2560" />
-    <option name="width" value="1920" />
+    <option name="x" value="1912" />
+    <option name="width" value="1936" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -115,38 +84,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/jyxk/Code/java/learning/inheritance/src/com/company/Main.java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,8 +103,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Main" />
-      <module name="inheritance" />
+      <option name="MAIN_CLASS_NAME" value="reflection.Main" />
+      <module name="reflection" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -178,26 +120,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a0edbdc4-09b0-4849-b28b-496003d2b6a3" name="Default Changelist" comment="" />
-      <created>1536932330425</created>
+      <changelist id="3724175d-8b28-46e2-94f4-c22f17c9b0c6" name="Default Changelist" comment="" />
+      <created>1537369171787</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536932330425</updated>
+      <updated>1537369171787</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2560" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="1912" y="0" width="1936" height="1088" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24298055" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110691145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -217,24 +159,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Main.java">
+    <entry file="jar:///usr/lib/jvm/java-10-jdk/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="257">
+          <caret line="655" column="15" selection-start-line="655" selection-start-column="15" selection-end-line="655" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/reflection/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="660">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

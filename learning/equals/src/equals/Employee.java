@@ -26,5 +26,33 @@ public class Employee {
         return hireDay;
     }
 
-    
+    public void raiseSalary(double byPercent) {
+        double raise = salary * byPercent / 100;
+        salary += raise;
+    }
+
+    public boolean equals(Object otherObject) {
+        if (this == otherObject)
+            return true;
+
+        if (otherObject == null)
+            return false;
+
+        if (getClass() != otherObject.getClass())
+            return false;
+
+        Employee other = (Employee) otherObject;
+
+        return Objects.equals(name, other.name) && salary == other.salary && Objects.equals(hireDay, other.hireDay);
+
+    }
+
+    public int hashCode() {
+        return Objects.hash(name, salary, hireDay);
+    }
+
+    public String toString() {
+        return getClass().getName() + "[name=" + name + ", salary=" + salary + " ,hireday=" + hireDay + "]";
+    }
+
 }
